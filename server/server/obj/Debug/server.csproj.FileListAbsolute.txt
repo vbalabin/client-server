@@ -1,0 +1,10 @@
+C:\CLIENT-SERVER\server\server\bin\Debug\server.exe.config
+C:\CLIENT-SERVER\server\server\bin\Debug\server.exe
+C:\CLIENT-SERVER\server\server\bin\Debug\server.pdb
+C:\CLIENT-SERVER\server\server\bin\Debug\Dll.dll
+C:\CLIENT-SERVER\server\server\bin\Debug\Dll.pdb
+C:\CLIENT-SERVER\server\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\CLIENT-SERVER\server\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\CLIENT-SERVER\server\server\obj\Debug\server.csproj.CopyComplete
+C:\CLIENT-SERVER\server\server\obj\Debug\server.exe
+C:\CLIENT-SERVER\server\server\obj\Debug\server.pdb

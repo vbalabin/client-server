@@ -1,0 +1,6 @@
+C:\CLIENT-SERVER\Dll\Dll\bin\Debug\Dll.dll
+C:\CLIENT-SERVER\Dll\Dll\bin\Debug\Dll.pdb
+C:\CLIENT-SERVER\Dll\Dll\obj\Debug\Dll.csprojAssemblyReference.cache
+C:\CLIENT-SERVER\Dll\Dll\obj\Debug\Dll.csproj.CoreCompileInputs.cache
+C:\CLIENT-SERVER\Dll\Dll\obj\Debug\Dll.dll
+C:\CLIENT-SERVER\Dll\Dll\obj\Debug\Dll.pdb

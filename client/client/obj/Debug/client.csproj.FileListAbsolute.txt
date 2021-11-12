@@ -1,0 +1,13 @@
+C:\CLIENT-SERVER\client\client\bin\Debug\client.exe.config
+C:\CLIENT-SERVER\client\client\bin\Debug\client.exe
+C:\CLIENT-SERVER\client\client\bin\Debug\client.pdb
+C:\CLIENT-SERVER\client\client\bin\Debug\Dll.dll
+C:\CLIENT-SERVER\client\client\bin\Debug\Dll.pdb
+C:\CLIENT-SERVER\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\CLIENT-SERVER\client\client\obj\Debug\client.Form1.resources
+C:\CLIENT-SERVER\client\client\obj\Debug\client.Properties.Resources.resources
+C:\CLIENT-SERVER\client\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\CLIENT-SERVER\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\CLIENT-SERVER\client\client\obj\Debug\client.csproj.CopyComplete
+C:\CLIENT-SERVER\client\client\obj\Debug\client.exe
+C:\CLIENT-SERVER\client\client\obj\Debug\client.pdb
